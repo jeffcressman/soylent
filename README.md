@@ -1,4 +1,4 @@
-# Hacker School Soylent 1.0
+# Hackerschool Soylent 1.0
 
 This is a DIY soylent recipe [cross-posted from my food blog](http://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe/). I'm putting it here for three reasons: 
 
