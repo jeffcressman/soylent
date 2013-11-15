@@ -1,6 +1,6 @@
-# Hackerschool Soylent 1.0
+# Open Source Soylent
 
-This is a DIY soylent recipe [cross-posted from my food blog](http://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe/). I'm putting it here for three reasons: 
+This repo contains DIY soylent recipes I've developed, [cross-posted from my food blog](http://www.cookingfor20.com/tag/soylent/). I'm putting them here for three reasons:
 
 0. Many programmers are interested in soylent.
 0. Recipes benefit from version control, despite not being code.
@@ -8,44 +8,23 @@ This is a DIY soylent recipe [cross-posted from my food blog](http://www.cooking
 
 _If you don't know what soylent is, visit [soylent.me](http://soylent.me)_
 
-## Safety
+## Recipes
 
-You should read the blog post before attempting this recipe, especially the "Safety" section.
+* [Hackerschool Soylent] – optimized for being easy to make
+* [Bark & Twig Soylent] - optimized for being made of minimally processed ingredients
 
-## Recipe
-### Ingredients
+## Versioning
 
-* 120 g oat flour
-* 85 g soy protein from Trader Joe's, unflavored (see blog post for substitutions)
-* 85 g olive oil
-* 75 g brown sugar
-* 25 g ground flax
-* 20 g cocoa powder
-* 15 g lecithin
-* up to 10 g potassium citrate or 20 g potassium gluconate, added gradually (1 g per batch)
-* 2 g iodized salt
-* 1 g Emergen-C
-* 1 Vitamin D supplement
-
-### Method
-
-0. Combine all dry ingredients except Vitamin D. Mix well.
-0. Measure olive oil into a separate container.
-0. To prepare an individual meal, measure about a third of the dry mix and a third of the oil into a large drinking vessel.
-0. Add 400-500 ml (14-16 oz) of water, and shake or stir well.
-0. Chill for several hours if possible, to improve taste and texture. It may be healthier that way too (due to phytic acid deactivation).
-0. Meanwhile, take your Vitamin D and/or get some sunshine.
-0. Drink.
+I am using a modified version of [semantic versioning](http://semver.org/) for new recipe development. Basically, I will increment the "patch" (last) version when making simple quantity changes to existing ingredients, the "minor" (middle) version when making minor changes to the instructions, and the "major" (first) version when making significant changes to the instructions (i.e. using qualitatively different techniques or equipment) or when adding new ingredients.
 
 ## Acknowledgements
 
-Thanks to anyone who has beta tested or otherwise given feedback on this recipe, including but not limited to [Eddie](http://github.com/Eddie-D) and [Darshan](http://github.com/Shak-eah). And to [Rob](http://github.com/engibeer) for coming up with this entire idea.
+Thanks to anyone who has beta tested or otherwise given feedback on these recipes, including but not limited to Erika, Al Carter, [Eddie](http://github.com/Eddie-D), [Darshan](http://github.com/Shak-eah), and Lyra. And to [Rob](http://github.com/engibeer) for coming up with this entire idea.
 
 ## Links
-* [Original blog post](http://www.cookingfor20.com/2013/06/18/hacker-school-soylent-recipe) with photos and more information
+
 * [Soylent.me](http://soylent.me) (the mothership)
 * [USDA nutrient database](http://ndb.nal.usda.gov/ndb/search/list)
-
 
 ## License
 
