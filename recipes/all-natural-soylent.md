@@ -1,4 +1,6 @@
-# All-Natural Soylent (a.k.a. "Bark & Twig" Soylent – h/t Erika)
+# All-Natural Soylent 
+
+(a.k.a. "Bark & Twig" Soylent – h/t Erika)
 
 _version: 1.0_
 
