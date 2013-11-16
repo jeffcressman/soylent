@@ -22,7 +22,7 @@ Servings: 3
 * 10 g dried spearmint
 * 5 g dried basil
 * 10 g soy lecithin
-* 3 g salt
+* 3 g iodized salt
 * 1 g camu camu powder
 * 1 g paprika
 
