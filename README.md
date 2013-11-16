@@ -1,4 +1,4 @@
-# Open Source Soylent
+# Soylent
 
 This repo contains DIY soylent recipes I've developed, [cross-posted from my food blog](http://www.cookingfor20.com/tag/soylent/). I'm putting them here for three reasons:
 
